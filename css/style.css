@@ -28,7 +28,7 @@ html{
       border-left: 4px solid #795548 !important;
       padding-left: 8px;
   }
-  .shihabcolor{
+  .ghaidaacolor{
       color: #795548 !important;
   }
   .nodecoration a{
@@ -93,13 +93,13 @@ html{
     box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
   }
   .css-typing p {
-    border-right: .15em solid #795548;
-    color:#795548;
+    border-right: .13em solid #795548;
+    color:#b44c5e;
     font-family: monospace;
-    font-size: 22px;
+    font-size: 19px;
     white-space: nowrap;
     overflow: hidden;
-    letter-spacing: .15em;
+    letter-spacing: .11em;
   }
   .css-typing p:nth-of-type(1) {
     width: 375px;
